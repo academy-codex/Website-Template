@@ -1,0 +1,77 @@
+.nav-wrapper {
+  background-color: #F3F8FC;
+}
+
+.nav-wrapper li a {
+  color: #000;
+}
+
+.nav-wrapper li a:hover {
+  background-color: inherit;
+}
+
+.nav-wrapper ul {
+  /*margin-top: 16px;*/
+  margin-right: 20px;
+}
+
+#logo {
+  margin-top: 12px;
+  margin-left: 30px;
+}
+
+.landing-1 {
+  background-color: #F3F8FC;
+  height: 400px;
+}
+
+.btn {
+  border-radius: 3px;
+  margin-bottom: 4px;
+  margin-left: 4px;
+}
+
+#lgn-btn {
+  color: #1678C2;
+}
+
+#bg-img {
+  margin-left: 38%;
+  margin-top: -40px;
+  z-index: -1;
+}
+
+#get-started {
+  margin-left: 44%;
+  margin-top: -120px;
+}
+
+#contract {
+  margin-left: 100px;
+  margin-top: 120px;
+  transform: rotate(-40deg);
+}
+
+#specs {
+  transform: matrix(1.5,0,0,1.5,150,-400);
+}
+
+.owl-carousel {
+  /*margin-top: 145px;*/
+
+}
+
+.owl-carousel .owl-stage-outer{
+  background-color: #FBFBFB;
+}
+
+.hw-it-wrks {
+  position: relative;
+  z-index: 5;
+  margin-top: -30px;
+  height: 400px;
+}
+
+.tablout {
+  height: 300px;
+}
